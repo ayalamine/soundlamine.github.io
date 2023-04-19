@@ -1,0 +1,71 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/lenovo/Downloads/index.html
+Subject: module2-solution
+Date: Mon, 17 Apr 2023 23:08:00 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--3DfmkCmoCGHNpKb3pWU42mCqBpSQxdtyJiMMMxrsBo----"
+
+
+------MultipartBoundary--3DfmkCmoCGHNpKb3pWU42mCqBpSQxdtyJiMMMxrsBo----
+Content-Type: text/html
+Content-ID: <frame-AD77599669EB4958590361AF845FB826@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/lenovo/Downloads/index.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+   =20
+    <title>module2-solution</title>
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"file:///C:/Users/lenovo/=
+Downloads/css/style.css"></head>
+
+
+<body>
+    <h1>Our Menu</h1>
+    <section class=3D"column-lg-4 colmn-md-6 colmn-sm-12">
+        <div>
+            <p class=3D"sub1">Chicken</p>
+            <p class=3D"content">
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. A=
+enean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus=
+ et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,=
+ ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa q=
+uis enim.
+            </p>
+        </div>
+    </section>
+    <section class=3D"column-lg-4 colmn-md-6 colmn-sm-12">
+        <div>
+            <p class=3D"sub2">Beef</p>
+            <p class=3D"content">
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. A=
+enean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus=
+ et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,=
+ ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa q=
+uis enim.
+        </p></div>
+    </section>
+    <section class=3D"column-lg-4 colmn-md-12 colmn-sm-12">
+        <div>
+            <p class=3D"sub3">Sushi</p>
+            <p class=3D"content">
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. A=
+enean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus=
+ et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,=
+ ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa q=
+uis enim.
+            </p>
+        </div>
+
+
+</section></body></html>
+------MultipartBoundary--3DfmkCmoCGHNpKb3pWU42mCqBpSQxdtyJiMMMxrsBo----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/lenovo/Downloads/css/style.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--3DfmkCmoCGHNpKb3pWU42mCqBpSQxdtyJiMMMxrsBo------
